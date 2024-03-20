@@ -1,0 +1,26 @@
+{
+    "@@locale": "en",
+
+    "license": "License",
+    "defect_report": "Defect report",
+    "open_in_browser": "Open in browser",
+    "agree": "agree",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms and Conditions",
+    "parental_gate_title": "Ask your parents",
+    "parental_gate_text": "Please solve the following problem to continue",
+    "login": "Login",
+    "logout": "Logout",
+    "site": "Sites",
+    "task": "Tasks",
+    "announcement": "Announcements",
+    "resource": "Resources",
+    "assignment": "Assignments",
+    "quiz": "Test & Quizzes",
+    "modified_date": "modified",
+    "please_enter_domain": "Please enter domain",
+    "author": "Author",
+    "due": "Due",
+    "submitted": "Submitted",
+    "by_click_pp": "By clicking the Login button,\n you agree to our privacy policy."
+}
